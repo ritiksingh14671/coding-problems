@@ -10,5 +10,3 @@ int main() {
 void hey() {
     std::cout << "Hey there!!!" << std::endl;
 }
-
-void
